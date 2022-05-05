@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListReverse", "LinkedListReverse\LinkedListReverse.csproj", "{CC4B69B4-D7A4-4FB6-A66D-939A19C9FA5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListReverse.Tests", "LinkedListReverse.Tests\LinkedListReverse.Tests.csproj", "{211E2EAB-4943-4EBB-8473-EBEA9EABE0FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4B69B4-D7A4-4FB6-A66D-939A19C9FA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4B69B4-D7A4-4FB6-A66D-939A19C9FA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4B69B4-D7A4-4FB6-A66D-939A19C9FA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4B69B4-D7A4-4FB6-A66D-939A19C9FA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211E2EAB-4943-4EBB-8473-EBEA9EABE0FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211E2EAB-4943-4EBB-8473-EBEA9EABE0FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211E2EAB-4943-4EBB-8473-EBEA9EABE0FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211E2EAB-4943-4EBB-8473-EBEA9EABE0FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

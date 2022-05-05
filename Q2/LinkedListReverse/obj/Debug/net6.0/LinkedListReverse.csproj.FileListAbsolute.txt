@@ -1,0 +1,12 @@
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/bin/Debug/net6.0/LinkedListReverse.deps.json
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/bin/Debug/net6.0/LinkedListReverse.dll
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/bin/Debug/net6.0/LinkedListReverse.pdb
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/obj/Debug/net6.0/LinkedListReverse.csproj.AssemblyReference.cache
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/obj/Debug/net6.0/LinkedListReverse.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/obj/Debug/net6.0/LinkedListReverse.AssemblyInfoInputs.cache
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/obj/Debug/net6.0/LinkedListReverse.AssemblyInfo.cs
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/obj/Debug/net6.0/LinkedListReverse.csproj.CoreCompileInputs.cache
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/obj/Debug/net6.0/LinkedListReverse.dll
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/obj/Debug/net6.0/refint/LinkedListReverse.dll
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/obj/Debug/net6.0/LinkedListReverse.pdb
+/mnt/c/ubuntuprojects/csharp/mmguide/Q2/LinkedListReverse/obj/Debug/net6.0/ref/LinkedListReverse.dll

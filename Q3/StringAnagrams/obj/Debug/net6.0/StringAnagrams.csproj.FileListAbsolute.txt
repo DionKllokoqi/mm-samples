@@ -1,0 +1,12 @@
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/bin/Debug/net6.0/StringAnagrams.deps.json
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/bin/Debug/net6.0/StringAnagrams.dll
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/bin/Debug/net6.0/StringAnagrams.pdb
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/obj/Debug/net6.0/StringAnagrams.csproj.AssemblyReference.cache
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/obj/Debug/net6.0/StringAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/obj/Debug/net6.0/StringAnagrams.AssemblyInfoInputs.cache
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/obj/Debug/net6.0/StringAnagrams.AssemblyInfo.cs
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/obj/Debug/net6.0/StringAnagrams.csproj.CoreCompileInputs.cache
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/obj/Debug/net6.0/StringAnagrams.dll
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/obj/Debug/net6.0/refint/StringAnagrams.dll
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/obj/Debug/net6.0/StringAnagrams.pdb
+/mnt/c/ubuntuprojects/csharp/mmguide/Q3/StringAnagrams/obj/Debug/net6.0/ref/StringAnagrams.dll
